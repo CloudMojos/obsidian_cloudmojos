@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "571df7bd6e3b7163",
+    "type": "split",
+    "children": [
+      {
+        "id": "754274a18cd50f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "308be3d055cf1e20",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b371ea27f14c5bec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22ebf1d37128a87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "205420335aeb41dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d2788d3efd692bf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ae2fdbae19fec7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4bf04bee2bfeb59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7bf0a02eb487125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee896419d80ff3e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "April 27, 2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for April 27, 2025"
+            }
+          },
+          {
+            "id": "203943a95c7248f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "April 27, 2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from April 27, 2025"
+            }
+          },
+          {
+            "id": "bc45ad5902856c6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "852e5fa0ffd9ad5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "April 27, 2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of April 27, 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "308be3d055cf1e20",
+  "lastOpenFiles": [
+    "initialize.md",
+    "Personal/Journal.md",
+    "April 27, 2025.md",
+    "202504271815.md",
+    "2025-04-27.md",
+    "Personal/Projects/Vanguard",
+    "Personal/Projects",
+    "Personal/Journal",
+    "Work",
+    "Personal"
+  ]
+}
