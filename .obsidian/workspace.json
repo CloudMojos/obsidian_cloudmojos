@@ -1,20 +1,26 @@
 {
   "main": {
-    "id": "571df7bd6e3b7163",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "754274a18cd50f36",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "308be3d055cf1e20",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Homebase.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Homebase"
             }
           }
         ]
@@ -74,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4bf04bee2bfeb59b",
@@ -160,14 +165,19 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "308be3d055cf1e20",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "initialize.md",
-    "Personal/Journal.md",
+    "Homebase.md",
+    "Home.md",
+    "Untitled.canvas",
+    "Journal.md",
+    "Personal.md",
     "April 27, 2025.md",
+    "initialize.md",
     "202504271815.md",
     "2025-04-27.md",
     "Personal/Projects/Vanguard",
